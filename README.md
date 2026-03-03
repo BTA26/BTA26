@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">BTA</p>
-
-###
 
 <h2 align="left">About us</h2>
 
